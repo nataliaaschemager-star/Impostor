@@ -1,0 +1,6 @@
+{
+  "name": "El Impostor",
+  "description": "Juego de mesa interactivo multiusuario en tiempo real. Descubre quién es el impostor o camúflate entre los investigadores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
