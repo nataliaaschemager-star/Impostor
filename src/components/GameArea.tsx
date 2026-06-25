@@ -815,7 +815,7 @@ export default function GameArea({ room, playerId }: GameAreaProps) {
                             )}
                             {wasVotedOut && (
                               <span className="text-[9px] font-mono font-bold bg-amber-950 text-amber-400 px-1.5 py-0.5 rounded border border-amber-900/30">
-                                EXULSADO 🗳️
+                                EXPULSADO 🗳️
                               </span>
                             )}
                           </span>
